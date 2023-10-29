@@ -1,1 +1,30 @@
-
+*{
+	padding:0px;
+	margin:0px;
+	box-sizing:border-box;
+}
+w{
+	display:inline;
+	border-bottom:2px solid blue;
+}
+#onep{
+	margin-top:10px;
+}
+#proimg{
+	width:200px;
+	height:200px;
+	margin:5px;
+}
+.con22{
+	display:flex;
+	justify-content:space-evenly;
+	padding:10px;
+}
+.icons{
+	width:100px;
+	padding:5px;
+}
+.main{
+	display:flex;
+	justify-content:space-evenly;
+}
